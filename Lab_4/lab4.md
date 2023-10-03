@@ -25,8 +25,8 @@
 
 <strong>Ожидаемый результат:</strong> Товар добавлен в корзину<br>
 <strong>Фактические результаты: </strong> На странице корзины появился добавленный товар, а также возле иконки корзины появилось количество добавленных товаров.<br>
-<img height="150" src="second1.png" title="img with result" width="50"/><br>
-<img height="150" src="second2.png" title="img with result" width="300"/><br>
+<img height="150" src="second1.png" title="img with result" width="150"/><br>
+<img height="250" src="second2.png" title="img with result" width="500"/><br>
 <strong>Статус: </strong> тест пройден успешно<br>
 <hr>
 
@@ -43,7 +43,7 @@
 
 <strong>Ожидаемый результат:</strong> Пройдена регистрация<br>
 <strong>Фактические результаты:</strong> Соответствует ожидаемому результату<br>
-<img height="60" src="3.png" title="img with adress" width="300"/><br>
+<img height="290" src="3.png" title="img with adress" width="300"/><br>
 <strong>Статус: </strong> Тест пройден успешно<br>
 <hr>
 

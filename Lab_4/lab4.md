@@ -43,7 +43,7 @@
 
 <strong>Ожидаемый результат:</strong> Пройдена регистрация<br>
 <strong>Фактические результаты:</strong> Соответствует ожидаемому результату<br>
-<img height="290" src="3.png" title="img with adress" width="300"/><br>
+<img height="290" src="3.png" title="img with adress" width="350"/><br>
 <strong>Статус: </strong> Тест пройден успешно<br>
 <hr>
 
@@ -81,12 +81,12 @@
 2. Выбрать на панели меню пункт с названием текущей валюты
 3. У нас появляется окно с возможностью выбора
 валюты, необходимо выбрать из выпадающего списка
-   <img height="110" src="5_1.png" title="img with money" width="300"/><br>
+   <img height="250" src="5_1.png" title="img with money" width="500"/><br>
 4. Проверяем, чтобы валюта на панели изменился
 
 <strong>Ожидаемый результат:</strong> Измененная валюта отображается<br>
 <strong>Фактические результаты:</strong> Соответствует ожидаемому результату<br>
-<img height="40" src="5_2.png" title="img with adress" width="300"/><br>
+<img height="240" src="5_2.png" title="img with adress" width="400"/><br>
 <strong>Статус: </strong> Тест пройден успешно<br>
 <hr>
 

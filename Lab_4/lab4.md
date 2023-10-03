@@ -81,7 +81,7 @@
 2. Выбрать на панели меню пункт с названием текущей валюты
 3. У нас появляется окно с возможностью выбора
 валюты, необходимо выбрать из выпадающего списка
-   <img height="250" src="5_1.png" title="img with money" width="500"/><br>
+   <img height="305" src="5_1.png" title="img with money" width="500"/><br>
 4. Проверяем, чтобы валюта на панели изменился
 
 <strong>Ожидаемый результат:</strong> Измененная валюта отображается<br>
@@ -99,13 +99,13 @@
 1. Зайти на сайт [futbolemotion.com](https://www.futbolemotion.com/en)
 2. Ввести в специальной панели поиска отрегулировать наши параметры поиска.
 3. Нажать кнопку "Search" с иконкой лупы<br>
-   <img height="40" src="6_1.png" title="img with searching" width="300"/><br>
+   <img height="140" src="6_1.png" title="img with searching" width="300"/><br>
 4. Выводится список товаров по нашему запросу
 
 <strong>Ожидаемый результат:</strong> Появляется список товаров, соответствующий 
 нашему запросу<br>
 <strong>Фактические результаты:</strong> Соответствует ожидаемому результату<br>
-<img height="230" src="6_2.png" title="img with adress" width="300"/><br>
+<img height="230" src="6_2.png" title="img with adress" width="400"/><br>
 <strong>Статус: </strong> Тест пройден успешно<br>
 <hr>
 
@@ -122,7 +122,7 @@ Find your nearest Fútbol Emotion store
  [View all stores](https://www.futbolemotion.com/en/stores)<br>
 
 <strong>Ожидаемый результат:</strong> открытие страницы с местонахождением магазинов<br>
-<img height="90" title="img with result"  src="7.png"/><br>
+<img height="200" title="img with result"  src="7.png"/><br>
 <strong>Фактические результаты: </strong> как ожидали<br>
 <strong>Статус: </strong> пройден успешно<br>
 <hr>
@@ -136,9 +136,9 @@ Find your nearest Fútbol Emotion store
 2. Перейти в корзину.
 3. В поле "Coupons and promotions" ввести необходимый купон
 4. При корректном купоне появляеться соответсвующая надпись<br>
-   <img height="200" src="8_2.png" title="img with add to basket" width="300"/><br>
+   <img height="230" src="8_2.png" title="img with add to basket"/><br>
 5. При не корректном купоне появляеться соответсвующая надпись<br>
-   <img height="200" src="8_1.png" title="img with add to basket" width="300"/><br>
+   <img height="230" src="8_1.png" title="img with add to basket"/><br>
 
 <strong>Ожидаемый результат:</strong> Купон использован<br>
 <strong>Фактические результаты: </strong> как ожидали<br>
@@ -156,12 +156,12 @@ Find your nearest Fútbol Emotion store
 2. Зайти в панель Account->My interests.
 3. В поле "Yout favourite teams".
 4. Выбрать нужные команды<br>
-   <img height="270" src="9_1.png" title="img with sorting" width="300"/><br>
+   <img height="270" src="9_1.png" title="img with sorting"/><br>
 
 <strong>Ожидаемый результат:</strong> присутствуют выбранные команды<br>
 <strong>Фактические результаты: </strong> появились требуемые команды<br>
 <strong>Статус: </strong> пройден успешно<br>
-<img height="200" src="9_2.png" title="img with sorting result" width="300"/><br>
+<img height="240" src="9_2.png" title="img with sorting result"/><br>
 <hr>
 
 
@@ -173,7 +173,7 @@ Find your nearest Fútbol Emotion store
 1. Зайти на сайт [futbolemotion.com](https://www.futbolemotion.com/en)
 2. В навигационном меню выбираем "Sales"
 3. Переходим на страницу и видим список актуальных распродаж
-   <img height="200" src="10.png" title="img with sales" width="300"/><br>
+   <img height="240" src="10.png" title="img with sales"/><br>
 
 <strong>Ожидаемый результат:</strong> Появился список товаров, на которые действуют скидки
 и/или акции<br>

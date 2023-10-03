@@ -25,8 +25,8 @@
 
 <strong>Ожидаемый результат:</strong> Товар добавлен в корзину<br>
 <strong>Фактические результаты: </strong> На странице корзины появился добавленный товар, а также возле иконки корзины появилось количество добавленных товаров.<br>
-<img height="150" src="second1.png" title="img with result" width="150"/><br>
-<img height="250" src="second2.png" title="img with result" width="500"/><br>
+<img height="150" src="second1.png" title="img with result"/><br>
+<img height="250" src="second2.png" title="img with result"/><br>
 <strong>Статус: </strong> тест пройден успешно<br>
 <hr>
 
@@ -43,7 +43,7 @@
 
 <strong>Ожидаемый результат:</strong> Пройдена регистрация<br>
 <strong>Фактические результаты:</strong> Соответствует ожидаемому результату<br>
-<img height="290" src="3.png" title="img with adress" width="350"/><br>
+<img height="290" src="3.png" title="img with adress"/><br>
 <strong>Статус: </strong> Тест пройден успешно<br>
 <hr>
 
@@ -67,7 +67,7 @@
 <strong>Ожидаемый результат:</strong> Фотография применилась, происходит обработка ошибок
 при добавлении файла в неверном формате<br>
 <strong>Фактические результаты:</strong> Фотография добавилась, обработка ошибок не предусмотрена<br>
-<img height="280" src="4.png" title="img with photo" width="300"/><br>
+<img height="280" src="4.png" title="img with photo"/><br>
 <strong>Статус: </strong> Тест пройден частично<br>
 <hr>
 
@@ -81,12 +81,12 @@
 2. Выбрать на панели меню пункт с названием текущей валюты
 3. У нас появляется окно с возможностью выбора
 валюты, необходимо выбрать из выпадающего списка
-   <img height="305" src="5_1.png" title="img with money" width="500"/><br>
+   <img height="305" src="5_1.png" title="img with money"/><br>
 4. Проверяем, чтобы валюта на панели изменился
 
 <strong>Ожидаемый результат:</strong> Измененная валюта отображается<br>
 <strong>Фактические результаты:</strong> Соответствует ожидаемому результату<br>
-<img height="240" src="5_2.png" title="img with adress" width="400"/><br>
+<img height="240" src="5_2.png" title="img with adress"/><br>
 <strong>Статус: </strong> Тест пройден успешно<br>
 <hr>
 
@@ -99,13 +99,13 @@
 1. Зайти на сайт [futbolemotion.com](https://www.futbolemotion.com/en)
 2. Ввести в специальной панели поиска отрегулировать наши параметры поиска.
 3. Нажать кнопку "Search" с иконкой лупы<br>
-   <img height="140" src="6_1.png" title="img with searching" width="300"/><br>
+   <img height="140" src="6_1.png" title="img with searching"/><br>
 4. Выводится список товаров по нашему запросу
 
 <strong>Ожидаемый результат:</strong> Появляется список товаров, соответствующий 
 нашему запросу<br>
 <strong>Фактические результаты:</strong> Соответствует ожидаемому результату<br>
-<img height="230" src="6_2.png" title="img with adress" width="400"/><br>
+<img height="230" src="6_2.png" title="img with adress"/><br>
 <strong>Статус: </strong> Тест пройден успешно<br>
 <hr>
 

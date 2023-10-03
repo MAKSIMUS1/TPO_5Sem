@@ -1,4 +1,4 @@
-# Lab 4
+# Lab 3
 ## Test-cases (интернет-магазин [futbolemotion.com](https://www.futbolemotion.com/en))
 
 <strong>1</strong>. Сортировка товара.<br>
